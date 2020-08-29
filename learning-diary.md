@@ -9,3 +9,12 @@ I set up my environment with VSCode and signed up for a GitHub account. I skippe
 **29.8.2020**
 
 I followed the instructions on lesson 2. I had hard time figuring out how to get fontawesome working in my project. CDN link was missing or changed from their web site. I tried adding fontawesome with npm but I couldn't get it working. I installed webpack and CopyWebpackPlugin but couldn't get it to work. Finally I decided to look for alternative sources for CDN and found it from cdnjs.com.
+
+In lesson 3 I created JavaScript-code to handle button click with event handling. I added/removed element class properties according to the state of the menu button.
+
+Things that I learned today:
+
+- how to use sass mixins
+- how to make sass conditional statements
+- pseudo element after (&:after)
+- css transitions (transform: rotate and translate)
