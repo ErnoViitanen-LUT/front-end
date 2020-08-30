@@ -22,10 +22,12 @@ Things that I learned today:
 
 **30.8.2020**
 
-In lesson 4 I followed the video instructions by creating menu overlay and made the site responsive. 
+In lesson 4 I followed the video instructions by creating menu overlay and made the site responsive. I continued with lesson 5 and created about page with css grid.
 
 Things I learned today:
 
 - transform: translate in 3d space
 - sass for loops (@for $x from 1 through 4)
 - sass mixins with content
+- sass functions (set-text-color)
+- css grid (grid-template-areas and columns)
