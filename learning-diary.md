@@ -22,7 +22,7 @@ Things that I learned today:
 
 **30.8.2020**
 
-In lesson 4 I followed the video instructions by creating menu overlay and made the site responsive. I continued with lesson 5 and created about page with css grid.
+In lesson 4 I followed the video instructions by creating menu overlay and made the site responsive. I continued with lesson 5 and created about page with css grid. After that I moved on with lesson 6 and created work and contact pages.
 
 Things I learned today:
 
@@ -31,3 +31,5 @@ Things I learned today:
 - sass mixins with content
 - sass functions (set-text-color)
 - css grid (grid-template-areas and columns)
+- sass extend directive (@extend)
+- flex container (display: flex)
