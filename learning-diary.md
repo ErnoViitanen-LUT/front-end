@@ -28,3 +28,4 @@ Things I learned today:
 
 - transform: translate in 3d space
 - sass for loops (@for $x from 1 through 4)
+- sass mixins with content
