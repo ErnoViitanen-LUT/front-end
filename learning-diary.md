@@ -18,3 +18,13 @@ Things that I learned today:
 - how to make sass conditional statements
 - pseudo element after (&:after)
 - css transitions (transform: rotate and translate)
+
+
+**30.8.2020**
+
+In lesson 4 I followed the video instructions by creating menu overlay and made the site responsive. 
+
+Things I learned today:
+
+- transform: translate in 3d space
+- sass for loops (@for $x from 1 through 4)
